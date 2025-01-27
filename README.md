@@ -1,2 +1,2 @@
 # python aulas
- Meu repositório para postar aulas que eu estou tendo para aprender python com foco em me tornar um dev back-end.
+ Meu repositório para postar as aulas que estou tendo enquanto aprendo Python, com foco em me tornar um desenvolvedor back-end.
